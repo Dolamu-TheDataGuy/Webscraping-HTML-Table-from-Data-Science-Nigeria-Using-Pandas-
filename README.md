@@ -9,3 +9,5 @@ This is a program that amplifies the usage of  Python Pandas library for web scr
 - Numpy 
 
 - Matplotlib
+
+- Seaborn
